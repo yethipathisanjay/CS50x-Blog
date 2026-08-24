@@ -1,6 +1,10 @@
 # CS50x Blog
 Here I'm going to log everyday of my experience taking the CS50x course.
 
+### Day 32: August 23, 2026
+**Today's Progress**: almost finished re watching the lecture of week 6 on python.
+**Thoughts**: i should have just skipped to the 1h30m mark but i started from the beginning and it took me multiple hours to get to where it was useful to rewatch and write the code being taught. but i think i am getting good practice.
+
 ### Day 31: August 19, 2026
 **Today's Progress**: solved until credit of week 6
 **Thoughts**: hello, mario, cash. all were easy and i felt great until credit. i finally understood how good of a problem credit was all this time. it's simple to understand by writing a good structure answer is where it really shines. despite this time being python i kept thinking in my old manners. and when i decided to take a look at the c code i wrote, i realised this was what the ai suggested as an improvement to my really bad code. it also taught me a really good lesson, humans might the biggest factor in what code gets written in the real world. because code has to be readable first, it can be slow, today we can afford it to be slow. it would be an absolute nightmare to always write the best possible code, it will not work in a group setting. code will always be written for the last performing person in the group. anyway, it was fun. i had a bug where i used an extra > infront of = in an if condition and it took me 30 to debug it. debugging as you write code is the way but it gets harder and harder to do it as the line get into the thousands. the biggest difference in how good of a programmer someone can be will be experience, every one has access to educational resources but who applies them over and over? very few. 
