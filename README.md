@@ -1,6 +1,10 @@
 # CS50x Blog
 Here I'm going to log everyday of my experience taking the CS50x course.
 
+### Day 33: August 24, 2026
+**Today's Progress**: finished rewatching the lecture
+**Thoughts**: the 2nd half of the lecture is what's useful. i got very confused with the syntax of lists, dicts and how to index them. after a couple of tries on the example in the lecture i think i got an idea but stil am not feeling confident. onto the dna problem,
+
 ### Day 32: August 23, 2026
 **Today's Progress**: almost finished re watching the lecture of week 6 on python.
 **Thoughts**: i should have just skipped to the 1h30m mark but i started from the beginning and it took me multiple hours to get to where it was useful to rewatch and write the code being taught. but i think i am getting good practice.
